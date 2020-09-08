@@ -29,5 +29,6 @@ function memo() {
     e.preventDefault();
   });
  }
+ console.log("memo")
  window.addEventListener("load", memo);
  
