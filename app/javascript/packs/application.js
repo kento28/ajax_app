@@ -9,7 +9,7 @@ require("@rails/activestorage").start()
 require("channels")
 require("../checked")
 require("../memo")
-console.log("application2")
+console.log("application3")
 
 
 // Uncomment to copy all static images under ../images to the output folder and reference
